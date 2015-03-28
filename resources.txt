@@ -1,0 +1,9 @@
+Resources:
+
+JavaScript API Library
+jQuery API Library
+Udacity
+w3schools
+Udacity Forums
+Google Maps API
+JSONLint
